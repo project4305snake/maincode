@@ -29,3 +29,8 @@ Phần mềm được phát triển trên ngôn ngữ lập trình C# và hệ q
 
 ## Chuẩn lập trình  
 * Để xem Chuẩn lập trình, Vui lòng tham khảo[tại đây]()  
+## Tài liệu cho người dùng cuối  
+* Để xem tài liệu cho người dùng cuối, Vui lòng tham khảo [tại đây](https://github.com/project4305snake/maincode/blob/master/foruser.md)  
+## Tài liệu cho nhà phát triển  
+* Để xem tài liệu cho nhà phát triển, Vui lòng tham khảo [tại đây]()  
+## Danh sách lỗi
