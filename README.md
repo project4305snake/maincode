@@ -52,7 +52,7 @@ TÌM HIỂU VỀ NGÔN NGỮ LẬP TRÌNH C#
  
 ## Kênh truyền thông cho dự án  
 Nhằm tạo ra phần mềm đầy đủ, hoàn thiện và có chất lượng cao, dự án được chia sẻ trên lên internet dưới dạng mã nguồn mở để mọi người cùng tham gia đánh giá, nhận xét cũng như xây dựng phần mềm hoàn thiện hơn.  
-Trang [facebook]()  
+Trang [facebook](https://www.facebook.com/Snack-Game-123021758309921/)  
 
 ## Lời cám ơn  
 Để hoàn thành tốt đề tài này chúng em xin cảm ơn thầy **Mai Cường Thọ** – giảng viên khoa CNTT Trường Đại học Nha Trang cùng các thầy cô bộ môn Kỹ thuật phần mềm đã hướng dẫn tạo điều kiện cho chúng em nghiên cứu và hoàn thành đề tài. Tuy nhiên do mới làm quen với hệ thống quản lý phiên bản phân tán Github và kiến thức C# còn hạn chế nên đồ án môn học của chúng em còn nhiều thiếu sót, chúng em mong nhận được sự góp ý từ thầy **Mai Cường Thọ** và các thầy cô giáo bộ môn để chúng em có thể hoàn thiện đồ án một cách tốt nhất  
