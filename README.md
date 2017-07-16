@@ -1,5 +1,5 @@
 ## GAME RẮN SĂN MỒI  
-
+![a](https://user-images.githubusercontent.com/27406948/28246840-c1fcfe1a-6a4d-11e7-8cfe-838159fae178.jpg)  
 ## Lời mở đầu  
 Ngày nay công nghệ thông tin trở thành một phần không thể thiếu trong cuộc sống, công nghệ thông tin đã và đang đóng vai trò quan trọng trong các ngành khoa học kĩ thuật, kinh tế xã hội của mỗi nước trên thế giới. Nó không những giải quyết công việc một cách nhanh chóng mà còn đem lại được hiệu quả kinh tế cao.Sau qúa trình được học và nghiên cứu về lập trình viết ứng dụng và được sự hướng dẫn tận tình của  thầy Mai Cường Thọ nhóm chúng em cũng đã hoàn thành xong báo cáo cuối kỳ "Game Rắn Săn Mồi"  
 Phần mềm được phát triển trên ngôn ngữ lập trình C#     
