@@ -12,11 +12,12 @@ namespace snake_game
 {
     public partial class Form1 : Form
     {
-        int score = 0;
+        // biến điểm, biến random, biến mang class food va snake, biến vẽ
+        int score = 0; 
         Random randFood = new Random();
         food food;
-        Graphics paper;
         snake snake = new snake();
+        Graphics paper;
 
         public Form1()
         {
@@ -28,7 +29,7 @@ namespace snake_game
         {
 
         }
-
+        //dùng timer để điều chỉnh tốc độ rắn
         private void timer2_Tick(object sender, EventArgs e)
         {
          toolStripLabel1.Text = score.ToString();
@@ -49,6 +50,7 @@ namespace snake_game
             collision();
             this.Invalidate();
         }
+        // ... như tên gọi :))
         void Restart()
         {
             timer2.Enabled = true;
@@ -58,6 +60,7 @@ namespace snake_game
             MessageBox.Show("Game Over!!!");
             snake = new snake();
         }
+        // nôm na là hàm "trọng tài" kiểm tra các trường hợp thua
         public void collision()
         {
             for (int i = 1; i < snake.SnakeRec.Length; i++)
@@ -104,7 +107,7 @@ namespace snake_game
 
         }
         Boolean left = false, right = false, up = false, down = false;
-
+        // lable in phần hướng dẫn
         private void label2_Click(object sender, EventArgs e)
         {
             timer2.Enabled = false;
@@ -123,7 +126,7 @@ namespace snake_game
                 "Ấn phím số 5 để chọn chế độ thánh thức thần thánh", "Hướng Dẫn");
             label1.Text = "Ấn Phím Cách Để Tiếp Tục . . .";
         }
-
+        // dùng sự kiện paint để vẽ ra chuyển độ của rắn và thức ăn
         private void Form1_Paint(object sender, PaintEventArgs e)
         {
             paper = e.Graphics;
@@ -131,7 +134,7 @@ namespace snake_game
             snake.drawSnake(paper);
 
         }
-
+        //thiết lập điều hiển rắn trên form bằng event keydown
         private void Form1_KeyDown(object sender, KeyEventArgs e)
         {
             if (e.KeyData == Keys.D1)
