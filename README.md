@@ -46,6 +46,8 @@ TÌM HIỂU VỀ NGÔN NGỮ LẬP TRÌNH C#
 
 ## Chuẩn lập trình  
 * Để xem Chuẩn lập trình, Vui lòng tham khảo[tại đây](https://github.com/project4305snake/maincode/blob/master/chuanlaptrinh.md)  
+## Tài liệu thiết kế
+* Bạn có thể xem tài liệu thiết kế [tại đây](https://github.com/project4305snake/maincode/blob/master/dev.md)
 ## Tài liệu cho người dùng cuối  
 * Để xem tài liệu cho người dùng cuối, Vui lòng tham khảo [tại đây](https://github.com/project4305snake/maincode/blob/master/foruser.md)  
 ## Tài liệu cho nhà phát triển  
