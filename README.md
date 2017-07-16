@@ -48,7 +48,7 @@ TÌM HIỂU VỀ NGÔN NGỮ LẬP TRÌNH C#
 - Đôi khi fod không xuất hiện trên form hoặc rắn không xuất hiện khi nhấn phím cách.  
 
 ## Cách lấy mã và đóng gói mã nguồn  
-* Các bạn [click vào đây] (https://drive.google.com/file/d/0By6zfHXiA3SoYlJLTENtcVRmOGs/view)
+* Các bạn [click vào đây](https://drive.google.com/file/d/0By6zfHXiA3SoYlJLTENtcVRmOGs/view)
 
 * Để đóng góp mã nguồn hay phản hồi [tại đây]()  hoặc gửi vào hộp thư điện tử `pronpk96@gmail.com`.  
 ## Kênh truyền thông cho dự án  
