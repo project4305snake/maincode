@@ -1,12 +1,7 @@
 #**Tài liệu thiết kế**  
 Code khá đơn giản các, xác định cái class cần tạo  
 ###**Class snake**  
-| Thuộc tính | Kiểu dữ liệu | 
-|------------|-----------|
-| Khuôn bao  | Rectangle |
-| Tọa độ     |       int |
-| Kích thước |       int | 
-| Màu sắc    | SoilBrush |    
+ 
 **Các phương thức :**  
 
 1.	Vẽ rắn   
@@ -14,12 +9,13 @@ Code khá đơn giản các, xác định cái class cần tạo
 3.	Thay đổi kích thước  
 4.	Điều khiển  
 ###**Class food**  
-|**Thuộc tính**| **Kiểu dữ liệu**|  
-|--------------|--------------|  
-|Khuôn bao     |  Rectangle   | 
-|tọa độ        |        inT   |  
-|kích thước    |        int   |   
-|màu sắc       |  SoilBrush   |   
+|**Thuộc tính**| **Kiểu dữ liệu**|
+|--------------|--------------|
+|Khuôn bao     |  Rectangle   |
+|tọa độ        |        inT   |
+|kích thước    |        int   |
+|màu sắc       |  SoilBrush   |
+
 **Các phương thức**  
 1.	Tạo tọa độ ngẫu nhiên   
 2.	Sinh food 
