@@ -26,6 +26,7 @@ KHAI BÁO BIẾN TRONG C#
   
 QUY TẮC ĐẶT TÊN BIẾN TRONG C#  
 Trong quá trình làm việc với c#, việc đặt theo đúng quy định tên biến rất quan trọng để giúp người khác đọc hoặc review code có thể dễ hiểu, nhận biết nhất. Sau đây là các quy tắc về việc đặt tên biến như sau:  
+
 -Tên biến là một chuỗi kí tự liên tiếp không có khoảng cách, tiếng việt có dấu và chứa kí tự đặc biệt  
 -Tên biến phải bắt đầu bằng kí tự không phải dạng số hoặc dấu _  
 -Tên biến không được đặt trùng với từ khóa  
