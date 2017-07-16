@@ -48,7 +48,7 @@ TÌM HIỂU VỀ NGÔN NGỮ LẬP TRÌNH C#
 - Lỗi rắn không dừng lại khi chạm tường dẫn đến thông báo thua game liên tục xuất hiện 
 - Đôi khi fod không xuất hiện trên form hoặc rắn không xuất hiện khi nhấn phím cách.  
 
-## Cách lấy mã và đóng gói mã nguồn  
+## Cách lấy mã nguồn 
 * Các bạn [click vào đây](https://drive.google.com/file/d/0By6zfHXiA3SoYlJLTENtcVRmOGs/view)
  
 ## Kênh truyền thông cho dự án  
