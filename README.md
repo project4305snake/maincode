@@ -12,20 +12,30 @@ Phần mềm được phát triển trên ngôn ngữ lập trình C#
 
 ## Thông tin tổ chức mã nguồn  
 ## Nền tảng xây dựng   
-#### [C# .NET]()  
-- Nền tảng hệ thống phần mềm  
-* C # là một ngôn ngữ lập trình hiện đại được phát triển bởi Microsoft và được phê duyệt bởi European Computer Manufacturers Association (ECMA) và International Standards Organization (ISO).  
+TÌM HIỂU VỀ NGÔN NGỮ LẬP TRÌNH C#  
+- C# là một ngôn ngữ ứng dụng, biên dịch với công dụng đa năng được phát triển bởi hãng điều hành Microsoft. Ngôn ngữ này chính là phần mở đầu cho NET.Microsoft, được viết dựa trên ngôn ngữ C và C++ và ngôn ngữ Java.  
 
-* C # được phát triển bởi Anders Hejlsberg và nhóm của ông trong việc phát triển .Net Framework.  
+- Sự ra đời của ngôn ngữ C# chính là sự cân bằng giữa C++, Visual Basic, Delphi và ngôn ngữ lập trình Java…  
 
-* C # được thiết kế cho các ngôn ngữ chung cơ sở hạ tầng (Common Language Infrastructure – CLI), trong đó bao gồm các mã (Executable Code) và môi trường thực thi (Runtime Environment) cho phép sử dụng các ngôn ngữ cấp cao khác nhau trên đa nền tảng máy tính và kiến trúc khác nhau.  
+- Đây là một ngôn ngữ khá đơn giản với khoảng 80 từ khóa và khoảng 10 kiểu dữ liệu được dựng sẵn, nó mang tính diễn đạt khá cao.  
 
-#### Ngôn ngữ ra đời cùng với .NET  
-* Kết hợp C++ và Java. Hướng đối tượng. Hướng thành phần. Mạnh mẽ (robust) và bền vững (durable). Mọi thứ trong C# đều Object oriented. Kể cả kiểu dữ liệu cơ bản. Chỉ cho phép đơn kế thừa. Dùng interface để khắc phục. Lớp Object là cha của tất cả các lớp. Mọi lớp đều dẫn xuất từ Object. Cho phép chia chương trình thành các thành phần nhỏ độc lập nhau. Mỗi lớp gói gọn trong một file, không cần file header như C/C++. Bổ sung khái niệm namespace để gom nhóm các lớp. Bổ sung khái niệm “property” cho các lớp. Khái niệm delegate & event  
+- Chức năng của C# hỗ trợ cho việc phát triển cấu trúc, hướng đối tượng và hướng thành phần trong lập trình phần mềm.  
 
-* Vai trò C# trong .NET Framework.NET runtime sẽ phổ biến và được cài trong máy client. Việc cài đặt App C# như là tái phân phối các thành phần .NET Nhiều App thương mại sẽ được cài đặt bằng C#.
+- Là sản phẩm của nhóm lập trình Microsoft, với nhiều nhà phát triển giỏi và nổi tiếng với nhiều phần mềm ứng dụng, nhất là Turbo Pascal.  
 
-* C# tạo cơ hội cho tổ chức xây dựng các App Client/Server n-tier. Kết nối ADO.NET cho phép truy cập nhanh chóng & dễ dàng với SQL Server, Oracle… Cách tổ chức .NET cho phép hạn chế những vấn đề phiên bản.  
+- Đây là ngôn ngữ đa năng, hỗ trợ rất hữu ích cho quá trình lập trình phần mềm. Nội dung chính của một chương trình lập trình hướng đối tượng chính là lớp. Nó là một kiểu dữ liệu kiểu mới để mở rộng ngôn ngữ theo hướng cần giải quyết.  
+
+- Các từ khóa trong ngôn ngữ C# được sử dụng để khai báo lớp, phương thức, thuộc tính mới, hỗ trợ định hướng đối tượng một cách đầy đủ nhất từ đóng gói, thừa kế và đa hình.  
+
+- Khái niệm giao diện trong ngôn ngữ C# khá giống với Java, tức là nó có thể cài đặt nhiều giao diện khác nhau.  
+
+- C# có dạng cấu trúc kiểu hạng nhẹ và bị giới hạn, tức là dạng cấu trúc không kế thừa hay có thể kế thừa nhưng có thể cài đặt nhiều giao diện khác nhau.  
+
+- Ngoài ra, C# còn định hướng thành phần lập trình tức là các sự kiện và hướng dẫn khai báo, mô tả các thông tin thuộc tính, bảo mật.  
+
+- Ngôn ngữ C# còn hỗ trợ cho việc thực hiện truy cập dữ liệu trực tiếp bộ nhớ từ con trỏ C++.  
+
+- C# ra đời chính là công cụ hỗ trợ trực tiếp và đa năng nhất cho lập trình viên trong công việc phát triển phần mềm.  
 
 ## Chuẩn lập trình  
 * Để xem Chuẩn lập trình, Vui lòng tham khảo[tại đây](https://github.com/project4305snake/maincode/blob/master/chuanlaptrinh.md)  
