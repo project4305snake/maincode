@@ -1,21 +1,14 @@
 #**Tài liệu thiết kế**  
 Code khá đơn giản các, xác định cái class cần tạo  
 ###**Class snake**  
- 
+![data1](https://user-images.githubusercontent.com/23743336/28246925-4f68cc8c-6a50-11e7-99bb-5e941f3ca3c9.png)  
 **Các phương thức :**  
-
 1.	Vẽ rắn   
 2.	Cho rắn chạy 
 3.	Thay đổi kích thước  
 4.	Điều khiển  
 ###**Class food**  
-|**Thuộc tính**| **Kiểu dữ liệu**|
-|--------------|--------------|
-|Khuôn bao     |  Rectangle   |
-|tọa độ        |        inT   |
-|kích thước    |        int   |
-|màu sắc       |  SoilBrush   |
-
+![data2](https://user-images.githubusercontent.com/23743336/28246925-4f68cc8c-6a50-11e7-99bb-5e941f3ca3c9.png)  
 **Các phương thức**  
 1.	Tạo tọa độ ngẫu nhiên   
 2.	Sinh food 
