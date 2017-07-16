@@ -43,8 +43,10 @@ TÌM HIỂU VỀ NGÔN NGỮ LẬP TRÌNH C#
 * Để xem tài liệu cho người dùng cuối, Vui lòng tham khảo [tại đây](https://github.com/project4305snake/maincode/blob/master/foruser.md)  
 ## Tài liệu cho nhà phát triển  
 * Để xem tài liệu cho nhà phát triển, Vui lòng tham khảo [tại đây]()  
-## Danh sách lỗi
-Phần mềm chưa được hoàn thiện, huy vọng các bạn đóng góp ý kiến hay update danh sách các lỗi [tại đây]()  
+## Danh sách lỗi  
+- Lỗi rắn không dừng lại khi chạm tường dẫn đến thông báo thua game liên tục xuất hiện 
+- Đôi khi fod không xuất hiện trên form hoặc rắn không xuất hiện khi nhấn phím cách.  
+
 ## Cách lấy mã và đóng gói mã nguồn  
 * Các bạn [click vào đây]()  
 
