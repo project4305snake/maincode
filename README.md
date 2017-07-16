@@ -9,7 +9,7 @@ Phần mềm được phát triển trên ngôn ngữ lập trình C#
 3)Vũ Ngọc An | MSSV: 14DC001 | SDT: 01216754671  
 4)Hồ Thị Bích Quyên | MSSV: 14DC067 | SDT: 0967047153  
 ## Giấy phép  
-
+Vui lòng xem [tại đây]()  
 ## Thông tin tổ chức mã nguồn  
 ![a](https://user-images.githubusercontent.com/23743336/28246986-c701e37c-6a51-11e7-904f-2ea1d22b7996.png)
 ## Nền tảng xây dựng   
