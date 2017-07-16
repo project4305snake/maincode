@@ -28,7 +28,7 @@ Phần mềm được phát triển trên ngôn ngữ lập trình C#
 * C# tạo cơ hội cho tổ chức xây dựng các App Client/Server n-tier. Kết nối ADO.NET cho phép truy cập nhanh chóng & dễ dàng với SQL Server, Oracle… Cách tổ chức .NET cho phép hạn chế những vấn đề phiên bản.  
 
 ## Chuẩn lập trình  
-* Để xem Chuẩn lập trình, Vui lòng tham khảo[tại đây]()  
+* Để xem Chuẩn lập trình, Vui lòng tham khảo[tại đây](https://github.com/project4305snake/maincode/blob/master/chuanlaptrinh.md)  
 ## Tài liệu cho người dùng cuối  
 * Để xem tài liệu cho người dùng cuối, Vui lòng tham khảo [tại đây](https://github.com/project4305snake/maincode/blob/master/foruser.md)  
 ## Tài liệu cho nhà phát triển  
