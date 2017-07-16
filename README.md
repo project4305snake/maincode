@@ -49,8 +49,7 @@ TÌM HIỂU VỀ NGÔN NGỮ LẬP TRÌNH C#
 
 ## Cách lấy mã và đóng gói mã nguồn  
 * Các bạn [click vào đây](https://drive.google.com/file/d/0By6zfHXiA3SoYlJLTENtcVRmOGs/view)
-
-* Để đóng góp mã nguồn hay phản hồi [tại đây]()  hoặc gửi vào hộp thư điện tử `pronpk96@gmail.com`.  
+ 
 ## Kênh truyền thông cho dự án  
 Nhằm tạo ra phần mềm đầy đủ, hoàn thiện và có chất lượng cao, dự án được chia sẻ trên lên internet dưới dạng mã nguồn mở để mọi người cùng tham gia đánh giá, nhận xét cũng như xây dựng phần mềm hoàn thiện hơn.  
 Trang [facebook]()  
