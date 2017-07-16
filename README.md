@@ -11,6 +11,7 @@ Phần mềm được phát triển trên ngôn ngữ lập trình C#
 ## Giấy phép  
 
 ## Thông tin tổ chức mã nguồn  
+![a](https://user-images.githubusercontent.com/23743336/28246986-c701e37c-6a51-11e7-904f-2ea1d22b7996.png)
 ## Nền tảng xây dựng   
 TÌM HIỂU VỀ NGÔN NGỮ LẬP TRÌNH C#  
 - C# là một ngôn ngữ ứng dụng, biên dịch với công dụng đa năng được phát triển bởi hãng điều hành Microsoft. Ngôn ngữ này chính là phần mở đầu cho NET.Microsoft, được viết dựa trên ngôn ngữ C và C++ và ngôn ngữ Java.  
