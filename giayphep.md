@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2017 F4Team-DHCN1A
+Copyright (c) 2017 DHCN1A
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
