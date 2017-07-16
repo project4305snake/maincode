@@ -1,8 +1,8 @@
-QUI ĐỊNH VỀ CHUẨN LẠP TRÌNH C#
-TỔ CHỨC TẬP TIN, THƯ MỤC
+## QUI ĐỊNH VỀ CHUẨN LẠP TRÌNH C#
+ TỔ CHỨC TẬP TIN, THƯ MỤC
 - Đặt tên tập tin ngắn gọn
 - Lưu mỗi lớp trong một tập tin  riêng biệt và tên tập tin phải trùng với tên lớp.
-- Mỗi namespace được đặt trong một thư mục riêng, phân caaspthuw mục theo phân cấp của namespace
+- Mỗi namespace được đặt trong một thư mục riêng, phân caaspthuw mục theo phân cấp của namespace  
 KHOẢNG TRẮNG
 - Không được gõ khoảng trắng ở đầu dòng lệnh
 - Giữa các phép toán và toán hạng phải có khoảng trắng 
