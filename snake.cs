@@ -9,7 +9,7 @@ namespace snake_game
 {
     public class snake
     {
-        private Rectangle[] snakeRec;
+        private Rectangle[] snakeRec; //khởi tạo biến tạo hình rắn
         public Rectangle[] SnakeRec
         {
             get
@@ -17,9 +17,9 @@ namespace snake_game
                 return snakeRec;
             }
         }
-        private SolidBrush brush;
-        private int x, y, w, h;
-
+        private SolidBrush brush; //tạo biến lưu màu
+        private int x, y, w, h;// tọa độ và kích cỡ ban đầu
+        //khởi tạo rắn ban đầu
         public snake()
         {
             snakeRec = new Rectangle[3];
@@ -46,7 +46,7 @@ namespace snake_game
                 snakeRec[i] = snakeRec[i - 1];
             }
         }
-
+        //các hàm điều khiển chuyển động
         public void moveDown()
         {
             drawSnakeRun();
@@ -68,6 +68,7 @@ namespace snake_game
             drawSnakeRun();
             snakeRec[0].X += 10;
         }
+        //hàm thay đổi kích cỡ
         public void growSnake()
         {
             List<Rectangle> rec = snakeRec.ToList();

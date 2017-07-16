@@ -7,11 +7,12 @@ using System.Drawing;
 
 namespace snake_game
 {
-    class food
+    class food  //khởi tạo đối tượng food
     {
         private int x, y, w, h;
         private SolidBrush brush;
         public Rectangle foodRec;
+        // cách cấu hình tương tự class snake nhưng có thêm hàm random tọa độ
         public food(Random ranFood)
         {
             x = ranFood.Next(0, 29) * 10;
