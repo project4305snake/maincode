@@ -4,9 +4,9 @@
 Ngày nay công nghệ thông tin trở thành một phần không thể thiếu trong cuộc sống, công nghệ thông tin đã và đang đóng vai trò quan trọng trong các ngành khoa học kĩ thuật, kinh tế xã hội của mỗi nước trên thế giới. Nó không những giải quyết công việc một cách nhanh chóng mà còn đem lại được hiệu quả kinh tế cao.Sau qúa trình được học và nghiên cứu về lập trình viết ứng dụng và được sự hướng dẫn tận tình của  thầy Mai Cường Thọ nhóm chúng em cũng đã hoàn thành xong báo cáo cuối kỳ "Game Rắn Săn Mồi"  
 Phần mềm được phát triển trên ngôn ngữ lập trình C# và hệ quản trị cơ sở dữ liệu SQL server.  
 ## Thành viên thực hiện  
-1)Lê Huy Hoàng | MSSV: 14DC127  | SDT: 01283566999
-2)Nguyễn Phương Nam | MSSV: 14DC145 | SDT: 01654332982
-3)Vũ Ngọc An | MSSV: 14DC001 | SDT: 01216754671
+1)Lê Huy Hoàng | MSSV: 14DC127  | SDT: 01283566999  
+2)Nguyễn Phương Nam | MSSV: 14DC145 | SDT: 01654332982  
+3)Vũ Ngọc An | MSSV: 14DC001 | SDT: 01216754671  
 4)Hồ Thị Bích Quyên | MSSV: 14DC067 | SDT: 0967047153  
 ## Giấy phép  
 
