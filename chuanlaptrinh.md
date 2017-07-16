@@ -1,8 +1,8 @@
-## QUI ĐỊNH VỀ CHUẨN LẠP TRÌNH C#
+## QUI ĐỊNH VỀ CHUẨN LẬP TRÌNH C#
  TỔ CHỨC TẬP TIN, THƯ MỤC
 - Đặt tên tập tin ngắn gọn
 - Lưu mỗi lớp trong một tập tin  riêng biệt và tên tập tin phải trùng với tên lớp.
-- Mỗi namespace được đặt trong một thư mục riêng, phân caaspthuw mục theo phân cấp của namespace  
+- Mỗi namespace được đặt trong một thư mục riêng, phân cấp mục theo phân cấp của namespace  
 KHOẢNG TRẮNG
 - Không được gõ khoảng trắng ở đầu dòng lệnh
 - Giữa các phép toán và toán hạng phải có khoảng trắng 
@@ -17,7 +17,7 @@ KIỂU DỮ LIỆU TRONG C#
 KHAI BÁO BIẾN TRONG C#
 - Khai báo biến là việc người lập trình khai báo chỉ ra cho máy tính cần cấp phát một vùng nhớ để lưu trữ thông tin phục vụ tính toán, so sánh, xử lý thông tin,…mà người lập trình mong muốn.
 - Cú pháp khai báo biến như sau:
-  [Kiểu dữ liệu] [Tên biến] = [Giá trị mặc định];
+  [Kiểu dữ liệu] [Tên biến] = [Giá trị mặc định];  
 QUY TẮC ĐẶT TÊN BIẾN TRONG C#
 Trong quá trình làm việc với c#, việc đặt theo đúng quy định tên biến rất quan trọng để giúp người khác đọc hoặc review code có thể dễ hiểu, nhận biết nhất. Sau đây là các quy tắc về việc đặt tên biến như sau:
 -Tên biến là một chuỗi kí tự liên tiếp không có khoảng cách, tiếng việt có dấu và chứa kí tự đặc biệt
